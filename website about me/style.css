@@ -1,0 +1,62 @@
+.background {
+    background-color: rgb(141, 243, 243);
+    margin: 0px;
+    margin-top: 0px;
+    border-top: 0px;
+    align-self: center;
+    justify-content: flex-end;
+}
+
+.image img {
+    border-radius: 50%;
+    border-color: rgb(5, 161, 209);
+    border-style: ridge;
+}
+
+.image h1 {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.image p {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    justify-items: flex-start;
+}
+
+.information {
+    background-color: rgb(141, 243, 243);
+}
+
+.information h2 {
+    margin-left: 50px;
+}
+
+.information p {
+    margin-right: 0px;
+    margin-left: 50px;
+    justify-content: center;
+}
+
+.HOBBY h2 {
+    margin-left: 50px;
+}
+
+.HOBBY h1 {
+    margin-left: 90px;
+}
+
+.Contact {
+    padding: 0%;
+}
+
+.Contact a {
+    margin-left: 100px;
+    padding: 0%;
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 100px;
+}
